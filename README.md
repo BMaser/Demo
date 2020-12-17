@@ -23,7 +23,7 @@
 	Generating novel artistic images.
 
 
-#### [2017/18]  Pytorch Framework 
+### [2017/18]  Pytorch Framework 
  
 	1. Detection of Morphed Face Images using Deep learning. 
 	This project was doneby Pytorch framework (Academic projrct)
@@ -40,7 +40,7 @@
 	
 	3. PRNU-based finger vein sensor identification. (2018)
 	
-	4. Survey on effect of various compression techniques on texture classification. (207/18 	
+	4. Survey on effect of various compression techniques on texture classification. (207/18) 	
 	
 	
 	
