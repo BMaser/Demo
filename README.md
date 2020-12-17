@@ -1,18 +1,29 @@
-Demo
 
 
-Deep learning experience: 
 
-1. Classification of Image digits with SVHN dataset. [Demo 1]
+## Deep learning Project
 
-2. Classification of satellite images using EuroSAT dataset (including residential, industrial, highway, river, forest, pasture, herbaceous vegetation, annual crop, permanent crop and sea/lake images)
+### [2019|present]  TensorFlow Framework 
+ 
+    1. Classification of Image digits with SVHN dataset. [github demo]
+	2. Classification of fashion article images using a \underline{\textit{\textbf{custom model with custom layers}}} (Residual Network). [github demo]
+    3. Classification of satellite images using EuroSAT dataset (including residential, industrial, highway, river, forest, pasture, herbaceous vegetation, annual crop, permanent crop and sea/lake images)
+    4. Pet Classification using Transfer learning with Dogs vs Cats dataset (2013 Kaggle competition).
+    5. Scene Classification on LSUN dataset and CIFAR-100 dataset (with a focus on Tensorflow and Keras data processing tools)
+    6. Implementing the neural style transfer (NST) algorithm and Generating novel artistic images.
 
-3. Pet Classification using Transfer learning with Dogs vs Cats dataset (2013 Kaggle competition).
 
+#### [2017/18]  Pytorch Framework 
+ 
+	1. Detection of Morphed Face Images using Deep learning. This project was doneby Pytorch framework (Academic projrct)
+    2. People counting using UCSD Pedestrian dataset with deep learning approach,2017. (The project is part of Computer Vision proseminar course).
 
-4. Scene Classification on LSUN dataset and CIFAR-100 dataset (with a focus on Tensorflow and Keras data processing tools)
-
-5. Classification of fashion article images using a custom model with custom layers (Residual Network). [Demo 2]
-
-6. Implementing the neural style transfer (NST) algorithm and
-Generating novel artistic images.
+	
+## Projects with classical approach
+	- Finger Vein classification based on texture descriptors and standard ML. (2019)
+	- Classification and Detection of spoof images (2018)
+	- PRNU-based finger vein sensor identification. (2018)
+	- Survey on effect of various compression techniques on texture classification. (207/18 	
+	
+	
+	
