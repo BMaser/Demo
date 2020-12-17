@@ -13,3 +13,6 @@ Deep learning experience:
 4. Scene Classification on LSUN dataset and CIFAR-100 dataset (with a focus on Tensorflow and Keras data processing tools)
 
 5. Classification of fashion article images using a custom model with custom layers (Residual Network). [Demo 2]
+
+6. Implementing the neural style transfer (NST) algorithm and
+Generating novel artistic images.
