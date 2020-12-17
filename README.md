@@ -7,7 +7,7 @@
  
     1. Classification of Image digits with SVHN dataset. [github demo]
 	
-	2. Classification of fashion article images using a __custom model with custom layers__
+	2. Classification of fashion article images using a **_custom model with custom layers_**
 	(Residual Network). [github demo]
 	
     3. Classification of satellite images using EuroSAT dataset 
