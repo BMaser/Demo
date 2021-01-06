@@ -5,25 +5,25 @@
 ### - Imperial College London and Coursera:
 
 #### 1. Customising models with TensorFlow 2,
-... Credential ID: 3Z6YR6BBWAWN , [link to Credential](https://www.coursera.org/account/accomplishments/certificate/3Z6YR6BBWAWN) 
+...Credential ID: 3Z6YR6BBWAWN , [link to Credential](https://www.coursera.org/account/accomplishments/certificate/3Z6YR6BBWAWN) 
 
 #### 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization
 and Optimization,
-... Credential ID: ZNQ2Q6EFS45R , [link to Credential](https://www.coursera.org/account/accomplishments/certificate/ZNQ2Q6EFS45R)
+...Credential ID: ZNQ2Q6EFS45R , [link to Credential](https://www.coursera.org/account/accomplishments/certificate/ZNQ2Q6EFS45R)
 
 #### 3. Structuring Machine Learning Projects,
-... Credential ID: A66WASZZ7TVN , [link to Credential](
+...Credential ID: A66WASZZ7TVN , [link to Credential](
 https://www.coursera.org/account/accomplishments/certificate/A66WASZZ7TVN)
 
 #### 4. Convolutional Neural Networks,
-... Credential ID: QCNF57NK42RB , [link to Credential](
+...Credential ID: QCNF57NK42RB , [link to Credential](
 https://www.coursera.org/account/accomplishments/certificate/QCNF57NK42RB)
 
 #### 5. Getting started with TensorFlow 2,
-... Credential ID: 9BRGQ8GRUZC7 , [link to Credential](https://www.coursera.org/account/accomplishments/certificate/9BRGQ8GRUZC7)
+...Credential ID: 9BRGQ8GRUZC7 , [link to Credential](https://www.coursera.org/account/accomplishments/certificate/9BRGQ8GRUZC7)
 
 #### 6. Neural Networks and Deep Learning,
-... Credential ID: YRT3H5H23E6A , [link to Credential](
+...Credential ID: YRT3H5H23E6A , [link to Credential](
 https://www.coursera.org/account/accomplishments/certificate/YRT3H5H23E6A)
 
 
