@@ -11,8 +11,7 @@ and Optimization, [link to Credential](https://www.coursera.org/account/accompli
 
 #### 3. Structuring Machine Learning Projects,[link to Credential](https://www.coursera.org/account/accomplishments/certificate/A66WASZZ7TVN)
 
-#### 4. Convolutional Neural Networks,[link to Credential](
-https://www.coursera.org/account/accomplishments/certificate/QCNF57NK42RB)
+#### 4. Convolutional Neural Networks,[link to Credential](https://www.coursera.org/account/accomplishments/certificate/QCNF57NK42RB)
 
 #### 5. Getting started with TensorFlow 2,[link to Credential](https://www.coursera.org/account/accomplishments/certificate/9BRGQ8GRUZC7)
 
