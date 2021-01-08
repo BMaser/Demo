@@ -1,7 +1,7 @@
 
 
 
-<img src="https://github.com/BMaser/Demo/gif.gif">
+<img src="https://github.com/BMaser/Demo/blob/main/gif.gif?raw=true">
 
 
 ## Licenses & Certifications
